@@ -11,6 +11,5 @@
 
 <br>
 
-<sub><strong>EMBER COMMAND</strong> · original profile system · generated from GitHub public data</sub>
 
 </div>
